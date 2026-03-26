@@ -2,6 +2,7 @@
 
 An interactive PowerShell GUI for bulk-assigning Microsoft Intune apps to Azure AD groups — without clicking through each app one at a time.
 
+Designed to solve the lack of bulk app assignment in the Intune portal.
 Built to solve the pain of VPP token replacements, tenant migrations, or any situation where you need to reassign a large number of apps quickly.
 
 ![PowerShell 5.1+](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
