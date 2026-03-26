@@ -26,7 +26,7 @@ Built to solve the pain of VPP token replacements, tenant migrations, or any sit
 
 ## Screenshot
 
-> _Connect → Filter → Select apps → Pick intent → Pick targets (All Users / All Devices / groups) → Assign_
+<img width="1283" height="851" alt="intunebulkappUI" src="https://github.com/user-attachments/assets/b3f7bc48-56ed-4053-99da-fca65c61dd63" />
 
 ---
 
