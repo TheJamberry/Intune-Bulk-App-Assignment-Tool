@@ -22,6 +22,7 @@ Built to solve the pain of VPP token replacements, tenant migrations, or any sit
 - Automatically disables **All Devices** when **Available** is selected (Intune does not support that combination)
 - Skips and clearly labels any assignments that already exist
 - Logs every action with colour-coded output (success / skipped / failed)
+- Does **not** overwrite existing assignments
 
 ---
 
